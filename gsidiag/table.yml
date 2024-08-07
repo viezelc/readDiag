@@ -253,7 +253,7 @@ observations:
         abbreviation: AIRCFT
         instrument: AIREP PIREP Avião Sensores
         color: "#98df8a"
-        symbol: *
+        symbol: "*"
         iuse: "1"
   - kx: 232
     details:
